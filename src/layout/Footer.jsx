@@ -17,19 +17,19 @@ export default function Footer() {
       >
         <GridItem justifySelf="start">
           {/* Built by{" "} */}
-          {/* <a href="http://shimon-wosner.vercel.app" target="_blank"> */}
+          {/* <a href="https://ark-realtime-chat.vercel.app" target="_blank"> */}
           <a
-            href="https://twitter.com/shwosner"
+            href="https://kingsideaconnections.org/thekingsark"
             target="_blank"
             rel="noreferrer"
           >
             <FaTwitter style={{ display: "inline" }} />
-            @shwosner
+            @thekingsark
           </a>
         </GridItem>
         <GridItem justifySelf="end">
           <a
-            href="https://github.com/shwosner/realtime-chat-supabase-react"
+            href="https://thekingsark.world"
             target="_blank"
             rel="noreferrer"
           >
