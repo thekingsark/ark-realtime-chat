@@ -23,7 +23,7 @@ export default function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <fa-flag on fa-circle style={{ display: "inline" }} />
+            <FaFlag on fa-circle style={{ display: "inline" }} />
             @thekingsark
           </a>
         </GridItem>
@@ -33,7 +33,7 @@ export default function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <FaGithub style={{ display: "inline" }} /> Powered By The Kings Ark™
+            <FaFlag style={{ display: "inline" }} /> Powered By The Kings Ark™
           </a>
         </GridItem>
       </Grid>
