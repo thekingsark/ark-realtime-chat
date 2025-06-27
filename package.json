@@ -1,11 +1,11 @@
 {
-  "name": "realtime-chat-supabase-react",
+  "name": "The Kings Ark chat™",
   "version": "0.2.0",
   "private": false,
-  "author": "Shimon Wosner",
+  "author": "The Kings Ark chat™",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shwosner/realtime-chat-supabase-react"
+    "url": "https://thekingsark.world"
   },
   "type": "module",
   "dependencies": {
